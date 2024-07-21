@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://spaletici.github.io/sitemap
+Sitemap: https://spaletici.github.io/app/sitemap
+Sitemap: https://spaletici.github.io/assets/sitemap
+Sitemap: https://spaletici.github.io/css/sitemap
+Sitemap: https://spaletici.github.io/includes/sitemap
+Sitemap: https://spaletici.github.io/item/sitemap
+Sitemap: https://spaletici.github.io/src/sitemap
